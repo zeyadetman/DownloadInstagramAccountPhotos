@@ -17,7 +17,7 @@ def creat(fil):
             imgslin.append(imgs[i].split('"'))
     fw.close()
     for i in range(len(imgslin)):
-        linksimg.append(imgslin[i][1])
+        linksimg.append(imgslin[i][1].replace("s320x320/",''))
     return linksimg
 
 sss = creat('ffffff.txt')
