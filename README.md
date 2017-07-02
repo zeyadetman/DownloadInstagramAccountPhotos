@@ -1,5 +1,5 @@
 # DownloadInstagramAccountPhotos
-Download all the photos of Public Instagram Account
+Download all the photos of Public Instagram Account (Original Size)
 
 Watch video below to know how to use it:
 
